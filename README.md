@@ -2,17 +2,17 @@
 
 This is a really simple feed reader. Currently, using techtimejourney´s rss as an example. Completely terminal based at this point.
 
-# Dependencies
+### Dependencies
 
         Install python-feedparser python3-feedparser (Debian 10).
 
 
-# Executing: 
+### Executing: 
 
     python feeds.py
     
     
-# Output:    
+### Output:    
 
 Showing 5 most recent posts on Techtimejourney
 
@@ -32,4 +32,4 @@ Mon, 22 Apr 2019 18:25:54 +0000:New wallpaper added
 https://www.techtimejourney.net/new-wallpaper-added/
 
 
-# TODO: GUI.
+### TODO: GUI.
