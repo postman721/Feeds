@@ -7,12 +7,12 @@ This is a really simple feed reader. Currently, using techtimejourney´s rss as 
         Install python-feedparser python3-feedparser (Debian 10).
 
 
-Executing: 
+# Executing: 
 
     python feeds.py
     
     
-Output:    
+# Output:    
 
 Showing 5 most recent posts on Techtimejourney
 
@@ -31,4 +31,5 @@ https://www.techtimejourney.net/5-new-wallpapers-added-about-postx-gnu-linux-0-6
 Mon, 22 Apr 2019 18:25:54 +0000:New wallpaper added
 https://www.techtimejourney.net/new-wallpaper-added/
 
-TODO: GUI.
+
+# TODO: GUI.
